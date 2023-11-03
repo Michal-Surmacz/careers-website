@@ -1,5 +1,9 @@
 You can view the current range by going to: https://careers-website--misurmacz.repl.co
 
+
+https://github.com/Michal-Surmacz/careers-website/assets/130986866/8658592c-4959-457e-9ec9-93ee3dff68d9
+
+
 # Objective "careers-website"
     1. Create a “TechFusion Careers” website listing job openings at TechFusion Company
     2. Use a modern HTML & CSS framework for layout and styling
