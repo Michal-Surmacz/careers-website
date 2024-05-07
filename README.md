@@ -1,7 +1,3 @@
-You can view the current range by going to: https://careers-website--misurmacz.repl.co
-
-
-
 https://github.com/Michal-Surmacz/careers-website/assets/130986866/1aa31771-b309-4d87-9965-e516a99b4b7e
 
 
